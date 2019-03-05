@@ -1,0 +1,493 @@
+Data_Coleta,plot,Modelo,Bloco,ID_Parc,Subparcela,N_reg,small,big,fieldname,sp,Author,species,Family,Disp,lifeform,origin
+01/mai/15,1,3_NE_semcolheita,1,16,4,1,1,0,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,1,3_NE_semcolheita,1,17,5,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,1,3_NE_semcolheita,1,13,1,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,16,4,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,17,5,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,18,6,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,18,6,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,3,3,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,16,4,1,1,0,capororoca,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Primulaceae,Zoo,tree,Nativa
+01/mai/15,1,3_NE_semcolheita,1,15,3,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,17,5,1,0,1,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,1,3_NE_semcolheita,1,14,2,4,4,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,1,3_NE_semcolheita,1,15,3,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,1,3_NE_semcolheita,1,18,6,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,1,3_NE_semcolheita,1,13,1,1,1,0,Coleta 49,Asteraceae sp.5,,Asteraceae sp.5 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,4,2_NEColheita,1,7,1,2,2,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,10,4,1,0,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,2,2,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,8,2,3,1,2,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,9,3,2,0,2,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,12,6,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,8,2,4,2,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,9,3,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,10,4,3,1,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,12,6,8,1,7,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,10,4,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,12,10,2,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,8,2,2,1,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,9,3,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,7,4,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,3,2,1,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,12,6,1,1,0,Coleta 25,Psychotria phyllocalymma, Müll.Arg.,Psychotria phyllocalymma  Müll.Arg.,Rubiaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,1,0,1,Falsa sapucaia,Banara brasiliensis,(Schott) Benth.,Banara brasiliensis (Schott) Benth.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,1,1,0,Falsa sapucaia,Banara brasiliensis,(Schott) Benth.,Banara brasiliensis (Schott) Benth.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,6,6,0,Flor no caule serreado,Banara brasiliensis,(Schott) Benth.,Banara brasiliensis (Schott) Benth.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,4,2_NEColheita,1,9,3,1,1,0,Corana,Acnistus arborescens,(L.) Schltdl.,Acnistus arborescens (L.) Schltdl.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,1,0,1,Corana,Acnistus arborescens,(L.) Schltdl.,Acnistus arborescens (L.) Schltdl.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,11,5,2,0,2,Jurubeba,Solanum polytrichum,Moric.,Solanum polytrichum Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,4,2_NEColheita,1,7,1,8,8,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,4,2_NEColheita,1,9,3,6,2,4,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,4,2_NEColheita,1,11,5,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,4,2_NEColheita,1,12,6,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,4,2_NEColheita,1,12,6,2,1,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,1,1,2,1,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,2,2,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,3,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,4,4,4,3,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,6,6,2,2,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,3,3,3,2,1,Folha coração,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,5,1_NAT,1,1,1,16,5,11,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,2,2,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,4,4,10,7,3,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,1,1,2,1,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,2,2,3,3,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,3,3,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,3,3,1,1,0,Miconia,Melastomataceae sp.,,Melastomataceae sp. ,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,4,4,5,1,4,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,4,4,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,5,1_NAT,1,5,5,6,6,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,6,6,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,1,1,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,2,2,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,4,4,1,0,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,4,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,6,6,1,1,0,Coleta 51,Psychotria phyllocalymma, Müll.Arg.,Psychotria phyllocalymma  Müll.Arg.,Rubiaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,1,1,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,2,2,3,1,2,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,4,4,1,0,1,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,5,1_NAT,1,1,1,9,4,5,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,2,2,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,3,3,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,4,4,6,6,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,5,1_NAT,1,6,6,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,63,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,66,6,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,66,6,1,0,1,Coleta 24,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,7,2_NEColheita,4,61,1,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,62,2,2,0,2,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,63,3,9,8,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,64,4,4,0,4,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,65,5,2,1,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,61,1,1,0,1,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,65,5,1,1,0,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,7,2_NEColheita,4,61,1,2,1,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,62,2,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,63,3,1,1,0,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,64,4,3,2,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,61,1,8,5,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,62,2,4,4,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,63,3,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,64,4,4,3,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,64,4,2,0,2,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,7,2_NEColheita,4,61,1,6,3,3,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,62,2,3,3,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,63,3,4,3,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,64,4,12,7,5,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,64,4,1,0,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,7,2_NEColheita,4,65,5,7,7,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,67,1,1,1,0,Coleta 71,Justicia sp.,L.,Justicia sp. L.,Acanthaceae,Abiotic,Arbusto,Não ID
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,0,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,67,1,1,0,1,"Haste simples, alterna, lisa",Baccharis sp.,L.,Baccharis sp. L.,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,8,3_NE_semcolheita,4,69,3,1,0,1,Coleta 74,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,0,1,Coleta 72,Asteraceae sp.5,,Asteraceae sp.5 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,8,3_NE_semcolheita,4,67,1,1,0,1,maria-preta,Varronia polycephala,Lam.,Varronia polycephala Lam.,Boraginaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,67,1,12,9,3,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,3,2,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,71,5,5,4,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,72,6,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,67,1,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,68,2,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,9,8,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,2,1,1,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,71,5,3,3,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,71,5,1,1,0,mundururú-preto,Miconia serrulata,(DC.) Naudin,Miconia serrulata (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,72,6,10,10,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,72,6,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,67,1,6,4,2,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,68,2,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,69,3,7,4,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,4,3,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,71,5,4,4,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,71,5,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,72,6,4,4,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,71,5,12,12,0,Coleta 66,Polygonaceae sp.,,Polygonaceae sp. ,Polygonaceae,NA,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,67,1,1,1,0,Capororoca,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Primulaceae,Zoo,tree,Nativa
+01/mai/15,8,3_NE_semcolheita,4,68,2,1,0,1,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,69,3,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,1,0,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,1,0,Jurubeba,Solanum polytrichum,Moric.,Solanum polytrichum Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,8,3_NE_semcolheita,4,67,1,11,10,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,68,2,6,5,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,68,2,2,1,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,69,3,3,3,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,70,4,6,5,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,70,4,1,0,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,71,5,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,8,3_NE_semcolheita,4,72,6,7,7,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,55,1,2,2,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,57,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,60,6,3,3,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,60,6,1,0,1,maria-preta,Varronia polycephala,Lam.,Varronia polycephala Lam.,Boraginaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,55,1,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,58,4,5,5,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,59,5,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,2,1,1,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,3,3,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,58,4,1,1,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,18,18,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,55,1,2,2,0,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,55,1,1,1,0,mundururú-preto,Miconia serrulata,(DC.) Naudin,Miconia serrulata (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,1,1,0,mundururú-preto,Ossaea sp.,D.C.,Ossaea sp. D.C.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,55,1,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,56,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,57,3,14,14,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,57,3,1,1,0,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,57,3,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,58,4,8,8,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,59,5,9,8,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,60,6,7,7,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,55,1,1,1,0,Coleta 77,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,56,2,1,1,0,Araçá folha grande,Psidium guineense,Sw.,Psidium guineense Sw.,Myrtaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,9,9,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,55,1,3,3,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,56,2,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,57,3,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,58,4,1,0,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,58,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,59,5,6,4,2,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,60,6,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,9,1_NAT,4,56,2,1,0,1,Coleta 66,Polygonaceae sp.,,Polygonaceae sp. ,Polygonaceae,NA,tree,Não ID
+01/mai/15,9,1_NAT,4,57,3,1,1,0,capororoca,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Primulaceae,Zoo,tree,Nativa
+01/mai/15,9,1_NAT,4,55,1,1,1,0,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,9,1_NAT,4,57,3,1,1,0,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,9,1_NAT,4,59,5,2,0,2,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,9,1_NAT,4,60,6,1,1,0,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,9,1_NAT,4,55,1,27,23,4,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,57,3,2,2,0,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,58,4,17,17,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,59,5,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,9,1_NAT,4,59,5,1,0,1,Lantana ,Lantana camara,L.,Lantana camara L.,Verbenaceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,19,1,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,22,4,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,19,1,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,11,1_NAT,2,19,1,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,20,2,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,21,3,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,22,4,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,19,1,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,21,3,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,22,4,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,23,5,4,2,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,22,4,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,23,5,2,2,0,capororoca,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Primulaceae,Zoo,tree,Nativa
+01/mai/15,11,1_NAT,2,22,4,2,2,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,23,5,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,23,5,1,1,0,Corana,Acnistus arborescens,(L.) Schltdl.,Acnistus arborescens (L.) Schltdl.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,11,1_NAT,2,19,1,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,11,1_NAT,2,22,4,5,5,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,11,1_NAT,2,24,6,1,0,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,14,2_NEColheita,2,27,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,14,2_NEColheita,2,27,3,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,14,2_NEColheita,2,28,4,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,14,2_NEColheita,2,25,1,1,0,1,maria-preta,Varronia polycephala,Lam.,Varronia polycephala Lam.,Boraginaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,25,1,3,2,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,6,6,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,27,3,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,2,2,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,25,1,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,2,1,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,27,3,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,2,2,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,29,5,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,29,5,3,3,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,30,6,10,10,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,6,6,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,12,12,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,29,5,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,1,0,1,Coleta 34B,Polygonaceae sp.,,Polygonaceae sp. ,Polygonaceae,NA,tree,Não ID
+01/mai/15,14,2_NEColheita,2,27,3,1,1,0,Coleta 34A,Palicourea blanchetiana,Schltdl.,Palicourea blanchetiana Schltdl.,Rubiaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,26,2,1,0,1,Falsa sapucaia,Banara brasiliensis,(Schott) Benth.,Banara brasiliensis (Schott) Benth.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,1,1,0,Flor no caule serreado,Banara brasiliensis,(Schott) Benth.,Banara brasiliensis (Schott) Benth.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,14,2_NEColheita,2,25,1,3,1,2,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,27,3,2,2,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,28,4,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,14,2_NEColheita,2,25,1,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,14,2_NEColheita,2,27,3,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,14,2_NEColheita,2,28,4,11,11,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,14,2_NEColheita,2,30,6,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,0,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,0,1,Coleta 57,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,15,3_NE_semcolheita,2,33,3,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,15,3_NE_semcolheita,2,35,5,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,15,3_NE_semcolheita,2,31,1,7,5,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,32,2,8,3,5,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,32,2,1,1,0,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,34,4,7,4,3,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,35,5,8,6,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,36,6,11,6,5,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,36,6,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,15,3_NE_semcolheita,2,31,1,10,8,2,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,34,4,10,8,2,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,33,3,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,33,3,2,0,2,Jurubeba,Solanum polytrichum,Moric.,Solanum polytrichum Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,1,0,Asteraceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,15,3_NE_semcolheita,2,34,4,1,1,0,Coleta 56,Solanaceae sp.2,,Solanaceae sp.2 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,15,3_NE_semcolheita,2,35,5,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,35,5,1,1,0,Jurubeba diferente,Solanum stagnale,Moric.,Solanum stagnale Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,36,6,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,15,3_NE_semcolheita,2,31,1,3,3,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,32,2,3,2,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,34,4,3,2,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,35,5,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,15,3_NE_semcolheita,2,36,6,2,0,2,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,16,2_NEColheita,5,81,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,16,2_NEColheita,5,84,6,2,0,2,Coleta 22A,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,16,2_NEColheita,5,80,2,3,0,3,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,16,2_NEColheita,5,83,5,1,0,1,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,16,2_NEColheita,5,80,2,1,1,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,80,2,3,1,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,81,3,5,5,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,82,4,5,1,4,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,83,5,10,0,10,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,84,6,3,0,3,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,11,3,8,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,1,1,0,Piper simples,Piper mollicomum,Kunth,Piper mollicomum Kunth,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,80,2,3,2,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,81,3,5,5,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,82,4,5,4,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,83,5,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,84,6,3,3,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,2,2,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,1,1,0,Jurubeba,Solanum polytrichum,Moric.,Solanum polytrichum Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,82,4,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,83,5,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,16,2_NEColheita,5,79,1,1,0,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,16,2_NEColheita,5,80,2,2,0,2,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,16,2_NEColheita,5,83,5,1,0,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,16,2_NEColheita,5,84,6,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,86,2,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,88,4,2,2,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,89,5,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,88,4,4,4,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,89,5,7,3,4,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,90,6,2,1,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,86,2,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,88,4,5,5,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,89,5,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,90,6,7,7,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,87,3,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,86,2,4,3,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,87,3,3,3,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,88,4,3,0,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,88,4,9,5,4,Piper simples liso,Piper sp.2,L.,Piper sp.2 L.,Piperaceae,Zoo,Arbusto,Não ID
+01/mai/15,19,3_NE_semcolheita,5,89,5,7,6,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,90,6,2,2,0,Coleta 66,Polygonaceae sp.,,Polygonaceae sp. ,Polygonaceae,NA,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,90,6,1,1,0,Casearia,Casearia sylvestris,Sw.,Casearia sylvestris Sw.,Salicaceae,Zoo,tree,Nativa
+01/mai/15,19,3_NE_semcolheita,5,90,6,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,19,3_NE_semcolheita,5,86,2,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,87,3,6,6,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,88,4,7,7,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,89,5,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,90,6,4,4,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,19,3_NE_semcolheita,5,89,5,1,1,0,Coleta 68,Lantana camara,L.,Lantana camara L.,Verbenaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,73,1,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,75,3,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,76,4,5,2,3,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,78,6,4,4,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,75,3,1,1,0,Coleta 81,Asteraceae sp.21,,Asteraceae sp.21 ,Asteraceae,Abiotic,tree,Não ID
+01/mai/15,20,1_NAT,5,77,5,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,20,1_NAT,5,75,3,1,1,0,maria-preta,Varronia polycephala,Lam.,Varronia polycephala Lam.,Boraginaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,73,1,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,74,2,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,78,6,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,73,1,1,1,0,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,73,1,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,74,2,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,75,3,11,11,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,76,4,4,4,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,77,5,4,4,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,76,4,4,3,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,76,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,77,5,3,2,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,77,5,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,78,6,7,7,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,78,6,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,73,1,1,1,0,capororoca,Myrsine coriacea,(Sw.) R.Br. ex Roem. & Schult.,Myrsine coriacea (Sw.) R.Br. ex Roem. & Schult.,Primulaceae,Zoo,tree,Nativa
+01/mai/15,20,1_NAT,5,78,6,1,1,0,Coleta 79,Prunus sp.,L.,Prunus sp. L.,Rosaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,76,4,1,0,1,Solanaceae pelo,Solanaceae sp.1,,Solanaceae sp.1 ,Solanaceae,Zoo,Arbusto,Não ID
+01/mai/15,20,1_NAT,5,77,5,1,0,1,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,78,6,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,20,1_NAT,5,73,1,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,74,2,1,0,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,76,4,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,77,5,4,4,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,78,6,8,8,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,20,1_NAT,5,73,1,1,1,0,Lantana ,Lantana camara,L.,Lantana camara L.,Verbenaceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,49,1,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,50,2,13,13,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,51,3,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,52,4,4,4,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,54,6,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,22,3_NE_semcolheita,3,51,3,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,22,3_NE_semcolheita,3,53,5,5,0,5,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,22,3_NE_semcolheita,3,54,6,2,0,2,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,38,2,1,1,0,Louro,Annonaceae sp.2,,Annonaceae sp.2 ,Annonaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,40,4,1,1,0,Pau-jangada,Annonaceae sp.1,,Annonaceae sp.1 ,Annonaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,42,6,1,0,1,Folha coração,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,23,1_NAT,3,37,1,3,3,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,38,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,40,4,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,41,5,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,42,6,17,17,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,37,1,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,40,4,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,42,6,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,23,1_NAT,3,37,1,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,38,2,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,39,3,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,40,4,1,0,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,23,1_NAT,3,42,6,3,3,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,24,2_NEColheita,3,46,4,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,24,2_NEColheita,3,43,1,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,24,2_NEColheita,3,43,1,1,1,0,Coleta 24,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,24,2_NEColheita,3,46,4,2,1,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,24,2_NEColheita,3,47,5,1,1,0,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,24,2_NEColheita,3,43,1,1,0,1,Coleta 37,Cordia sp.,L.,Cordia sp. L.,Boraginaceae,NA,tree,Não ID
+01/mai/15,24,2_NEColheita,3,43,1,1,1,0,Coleta 58,Hyeronima alchorneoides,Allemão,Hyeronima alchorneoides Allemão,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,24,2_NEColheita,3,43,1,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,43,1,1,1,0,mundururú-branco,Miconia sp.2,Ruiz & Pav.,Miconia sp.2 Ruiz & Pav.,Melastomataceae,Zoo,tree,Não ID
+01/mai/15,24,2_NEColheita,3,44,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,44,2,1,1,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,24,2_NEColheita,3,45,3,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,46,4,6,6,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,47,5,7,7,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,48,6,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,48,6,3,3,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,24,2_NEColheita,3,43,1,2,2,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,43,1,1,1,0,Coleta 38,Acnistus arborescens,(L.) Schltdl.,Acnistus arborescens (L.) Schltdl.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,48,6,1,1,0,Corana,Acnistus arborescens,(L.) Schltdl.,Acnistus arborescens (L.) Schltdl.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,24,2_NEColheita,3,44,2,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,27,3_NE_semcolheita,6,103,1,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,3,2,1,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,104,2,1,1,0,Coleta 62,Asteraceae sp.2,,Asteraceae sp.2 ,Asteraceae,Abiotic,tree,Não ID
+01/mai/15,27,3_NE_semcolheita,6,105,3,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,27,3_NE_semcolheita,6,106,4,1,0,1,Assapeixe,Asteraceae sp.9,,Asteraceae sp.9 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,27,3_NE_semcolheita,6,106,4,2,1,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,108,6,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,1,1,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,108,6,1,1,0,Muricí,Byrsonima sericea,DC.,Byrsonima sericea DC.,Malpighiaceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,103,1,7,5,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,104,2,1,1,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,105,3,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,105,3,2,2,0,pequi-solteiro,Miconia cinnamomifolia,(DC.) Naudin,Miconia cinnamomifolia (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,106,4,6,5,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,106,4,1,1,0,mundururú-preto,Miconia serrulata,(DC.) Naudin,Miconia serrulata (DC.) Naudin,Melastomataceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,6,5,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,108,6,12,2,10,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,1,1,0,Ficus ,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,2,1,1,Coleta 60,Ficus obtusiuscula,(Miq.) Miq.,Ficus obtusiuscula (Miq.) Miq.,Moraceae,Zoo,tree,Nativa
+01/mai/15,27,3_NE_semcolheita,6,104,2,7,4,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,105,3,2,1,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,106,4,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,107,5,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,108,6,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,105,3,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,108,6,2,0,2,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,27,3_NE_semcolheita,6,103,1,5,5,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,27,3_NE_semcolheita,6,105,3,4,4,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,27,3_NE_semcolheita,6,106,4,2,2,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,27,3_NE_semcolheita,6,107,5,2,1,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,98,2,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,97,1,1,0,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,98,2,1,1,0,Trema micrantha,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,99,3,2,2,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,101,5,5,4,1,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,102,6,3,1,2,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,101,5,1,0,1,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,97,1,1,0,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,98,2,4,2,2,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,99,3,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,3,2,1,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,101,5,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,102,6,3,0,3,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,1,1,0,Araçá folha grande,Psidium guineense,Sw.,Psidium guineense Sw.,Myrtaceae,Zoo,tree,Nativa
+01/mai/15,28,2_NEColheita,6,97,1,1,0,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,98,2,3,2,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,99,3,10,10,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,2,1,1,Coleta 8,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,9,6,3,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,100,4,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,101,5,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,102,6,5,4,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,97,1,1,0,1,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,101,5,1,1,0,Jurubeba,Solanum polytrichum,Moric.,Solanum polytrichum Moric.,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,28,2_NEColheita,6,98,2,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,100,4,4,3,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,100,4,2,1,1,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,101,5,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,101,5,1,1,0,Embaúba-vermelha,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,102,6,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,28,2_NEColheita,6,97,1,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,93,3,1,1,0,aroeira-pimenteira,Schinus terebinthifolia,Raddi,Schinus terebinthifolia Raddi,Anacardiaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,91,1,5,3,2,Folha coração ,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,30,1_NAT,6,93,3,4,2,2,Folha coração,Asteraceae sp.1,,Asteraceae sp.1 ,Asteraceae,Abiotic,Arbusto,Não ID
+01/mai/15,30,1_NAT,6,92,2,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,93,3,1,1,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,93,3,3,3,0,corindiba,Trema micrantha,(L.) Blume,Trema micrantha (L.) Blume,Cannabaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,92,2,1,1,0,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,93,3,2,2,0,Coleta 82,Hyeronima alchorneoides,Allemão,Hyeronima alchorneoides Allemão,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,94,4,1,1,0,Alchornea,Alchornea glandulosa,Poepp. & Endl.,Alchornea glandulosa Poepp. & Endl.,Euphorbiaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,92,2,1,1,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,95,5,1,1,0,capianga,Vismia guianensis,(Aubl.) Choisy,Vismia guianensis (Aubl.) Choisy,Hypericaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,91,1,11,11,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,92,2,5,5,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,93,3,2,2,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,93,3,1,1,0,Mundururú-colorido,Leandra sp.,Raddi,Leandra sp. Raddi,Melastomataceae,Zoo,Arbusto,Não ID
+01/mai/15,30,1_NAT,6,95,5,5,5,0,Agapirim ou folha-fogo,Clidemia hirta,(L.) D.Don,Clidemia hirta (L.) D.Don,Melastomataceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,94,4,7,7,0,Araçá folha grande,Psidium guineense,Sw.,Psidium guineense Sw.,Myrtaceae,Zoo,tree,Nativa
+01/mai/15,30,1_NAT,6,92,2,1,1,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,92,2,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,93,3,2,2,0,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,95,5,5,4,1,Piper redondo,Piper umbellatum,L.,Piper umbellatum L.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,95,5,1,1,0,Piper simples,Piper malacophyllum,(C.Presl) C.DC.,Piper malacophyllum (C.Presl) C.DC.,Piperaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,91,1,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,93,3,1,1,0,Cajussara,Solanum rugosum,Dunal,Solanum rugosum Dunal,Solanaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,91,1,1,0,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,30,1_NAT,6,92,2,8,7,1,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,30,1_NAT,6,93,3,1,1,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,30,1_NAT,6,94,4,4,4,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,30,1_NAT,6,95,5,3,3,0,Embaúba-branca,Cecropia sp.,Loefl.,Cecropia sp. Loefl.,Urticaceae,Zoo,tree,Não ID
+01/mai/15,30,1_NAT,6,92,2,2,2,0,Lantana ,Lantana camara,L.,Lantana camara L.,Verbenaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,96,6,1,1,0,Lantana ,Lantana camara,L.,Lantana camara L.,Verbenaceae,Zoo,Arbusto,Nativa
+01/mai/15,30,1_NAT,6,91,1,1,1,0,matataúba ou mandiocão,Schefflera morototoni,(Aubl.) Maguire et al.,Schefflera morototoni (Aubl.) Maguire et al.,Araliaceae,Zoo,tree,Nativa

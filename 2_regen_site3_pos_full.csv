@@ -1,0 +1,856 @@
+Modelo,Bloco,ID_parc,sub,N_ind,small,big,fieldname,lifeform
+3,4,70,,,1,,1 folha,Indet
+1,4,58,,,,1,4 folíolos,Indet.
+1,4,55,,,,1,Aegiphila,tree
+1,1,2,,,,1,Alchornea,tree
+1,4,55,,,1,,Alchornea,tree
+2,4,65,5,9,1,,Alchornea,tree
+1,5,73,,,,2,Alchornea,tree
+1,5,74,,,,5,Alchornea,tree
+2,5,83,,,1,,Alchornea,tree
+1,6,92,,,,1,Alchornea,tree
+1,6,94,4,21,1,,Alchornea,tree
+2,1,9,,,,1,Amendoim do mato,Herbácea
+3,2,35,,,,1,Amendoim do mato,Herbácea
+3,3,53,,,,1,Amendoim do mato,Herbácea
+1,6,92,,,,2,Amendoim do mato,Herbácea
+2,1,7,,,1,,Amora,tree
+3,1,16,,,,3,Amora,tree
+2,1,24,,,,1,Amora,tree
+2,2,26,,,1,,Amora,tree
+1,4,56,2,17,,6,Amora,tree
+1,4,57,,,,12,Amora,tree
+1,4,58,,,,3,Amora,tree
+1,4,59,,,,2,Amora,tree
+1,4,60,,,,5,Amora,tree
+2,4,62,,,,2,Amora,tree
+3,4,68,,,,2,Amora,tree
+3,4,69,,,,2,Amora,tree
+1,5,73,,,,3,Amora,tree
+1,5,74,2,25,,8,Amora,tree
+1,5,78,,,,4,Amora,tree
+3,5,89,,,,5,Amora,tree
+3,5,90,,,,1,Amora,tree
+1,6,93,,,,9,Amora,tree
+1,6,94,,,,1,Amora,tree
+1,6,95,,,,5,Amora,tree
+2,6,98,,,1,,Arbusto indet.,Indet.
+3,3,50,,,,1,Aroeira pimenteira,tree
+1,6,93,3,24,1,,Árvore x,tree
+1,6,94,,,,1,Árvore x,tree
+1,4,58,,,,1,Árvore y,tree
+2,1,8,,,1,,Assa peixe,Arbusto
+3,1,14,,,1,,Assa peixe,Arbusto
+3,1,16,4,8,1,,Assa peixe,Arbusto
+3,1,18,,,1,,Assa peixe,Arbusto
+2,1,19,1,11,1,1,Assa peixe,Arbusto
+2,2,26,2,6,1,,Assa peixe,Arbusto
+2,2,27,,,1,,Assa peixe,Arbusto
+2,2,28,,,2,,Assa peixe,Arbusto
+2,3,44,,,1,,Assa peixe,Arbusto
+2,3,46,,,3,,Assa peixe,Arbusto
+2,3,47,,,,1,Assa peixe,Arbusto
+2,5,81,,,,1,Assa peixe,Arbusto
+1,6,96,,,,1,Assa peixe,Arbusto
+3,6,103,,,2,,Assa peixe,Arbusto
+3,6,105,3,20,1,,Assa peixe,Arbusto
+3,6,106,4,5,1,,Assa peixe,Arbusto
+2,1,8,,,,0.7,Asteraceae rastejante,Herbácea
+2,1,10,,,,0.15,Asteraceae rastejante,Herbácea
+2,1,11,,,,0.2,Asteraceae rastejante,Herbácea
+2,1,12,,,,0.1,Asteraceae rastejante,Herbácea
+3,1,13,,,,3,Asteraceae rastejante,Herbácea
+3,1,14,,,,0.1,Asteraceae rastejante,Herbácea
+3,1,15,,,,0.5,Asteraceae rastejante,Herbácea
+3,1,16,,,,0.1,Asteraceae rastejante,Herbácea
+3,1,17,,,,0.9,Asteraceae rastejante,Herbácea
+3,1,18,,,,0.3,Asteraceae rastejante,Herbácea
+2,1,19,,,,0.3,Asteraceae rastejante,Herbácea
+2,1,20,,,,0.1,Asteraceae rastejante,Herbácea
+2,1,23,,,,0.15,Asteraceae rastejante,Herbácea
+2,1,24,,,,0.8,Asteraceae rastejante,Herbácea
+2,2,25,,,,0.25,Asteraceae rastejante,Herbácea
+2,2,28,,,,0.1,Asteraceae rastejante,Herbácea
+2,2,29,,,,0.2,Asteraceae rastejante,Herbácea
+2,2,30,,,,0.1,Asteraceae rastejante,Herbácea
+3,2,32,,,,0.9,Asteraceae rastejante,Herbácea
+3,2,33,,,,0.85,Asteraceae rastejante,Herbácea
+3,2,34,,,,0.05,Asteraceae rastejante,Herbácea
+3,2,35,,,,0.7,Asteraceae rastejante,Herbácea
+3,2,36,,,,0.9,Asteraceae rastejante,Herbácea
+1,3,37,,,,0.3,Asteraceae rastejante,Herbácea
+1,3,38,,,,0.4,Asteraceae rastejante,Herbácea
+1,3,40,,,,0.25,Asteraceae rastejante,Herbácea
+1,3,41,,,,0.3,Asteraceae rastejante,Herbácea
+1,3,42,,,,0.2,Asteraceae rastejante,Herbácea
+2,3,43,,,,0.3,Asteraceae rastejante,Herbácea
+2,3,44,,,,0.05,Asteraceae rastejante,Herbácea
+2,3,45,,,,0.3,Asteraceae rastejante,Herbácea
+2,3,46,,,,0.05,Asteraceae rastejante,Herbácea
+2,3,47,,,,0.05,Asteraceae rastejante,Herbácea
+2,3,48,,,,0.85,Asteraceae rastejante,Herbácea
+3,3,49,,,,0.2,Asteraceae rastejante,Herbácea
+3,3,50,,,,0.2,Asteraceae rastejante,Herbácea
+3,3,51,,,,0.2,Asteraceae rastejante,Herbácea
+3,3,52,,,,0.2,Asteraceae rastejante,Herbácea
+3,3,53,,,,0.1,Asteraceae rastejante,Herbácea
+3,3,54,,,,0.2,Asteraceae rastejante,Herbácea
+2,1,8,,,,1,Bambu,Indet.
+2,1,23,,,1,,Bambu,Indet.
+2,1,24,,,1,,Bambu,Indet.
+1,3,38,,,,1,Bambu,Indet.
+1,4,60,,,1,,Bambu,Indet.
+1,5,74,,,,2,Bambu,Indet.
+1,5,77,,,1,,Bambu,Indet.
+1,6,93,,,2,,Bambu,Indet.
+3,6,107,,,1,,Bambu,Indet.
+3,1,15,,,1,,Bambu escandente,Indet.
+2,1,7,,,,1,Caiçara,Arbusto
+3,1,13,,,1,,Caiçara,Arbusto
+3,1,15,,,1,,Caiçara,Arbusto
+3,1,16,,,,1,Caiçara,Arbusto
+2,1,23,5,16,1,2,Caiçara,Arbusto
+2,2,27,3,16,1,,Caiçara,Arbusto
+2,2,30,,,,1,Caiçara,Arbusto
+1,3,37,,,2,,Caiçara,Arbusto
+1,3,38,,,,1,Caiçara,Arbusto
+1,3,39,,,,1,Caiçara,Arbusto
+1,3,40,,,,1,Caiçara,Arbusto
+1,3,41,,,,1,Caiçara,Arbusto
+2,5,79,,,,1,Caiçara,Arbusto
+2,5,80,2,6,1,,Caiçara,Arbusto
+2,5,82,,,,1,Caiçara,Arbusto
+3,5,90,,,1,,Caiçara,Arbusto
+2,6,97,1,12,1,,Caiçara,Arbusto
+2,3,45,,,,1,Cana de macaco,Herbácea
+2,3,47,,,1,,Cana de macaco,Herbácea
+2,2,27,,,1,,Candeia branca,Erva
+2,2,28,,,1,,Candeia branca,Erva
+2,1,7,,,,1,Canela de velho,Erva
+1,5,78,,,,1,Capororoca,tree
+3,6,103,,,1,,Capororoca,tree
+3,1,15,,,,1,Capororoca 1,tree
+3,1,16,,,1,,Capororoca 1,tree
+3,1,18,6,16,1,,Capororoca 1,tree
+2,1,21,,,1,,Capororoca 1,tree
+2,1,23,,,1,2,Capororoca 1,tree
+2,2,29,5,8,1,,Capororoca 1,tree
+1,3,37,,,1,4,Capororoca 1,tree
+1,3,38,2,12,2,2,Capororoca 1,tree
+1,3,39,,,,1,Capororoca 1,tree
+1,3,40,4,14,2,,Capororoca 1,tree
+1,3,41,,,,1,Capororoca 1,tree
+1,3,42,,,,1,Capororoca 1,tree
+2,3,48,,,1,,Capororoca 1,tree
+3,3,49,,,,1,Capororoca 1,tree
+3,3,54,,,1,1,Capororoca 1,tree
+1,5,73,,,,1,Capororoca 1,tree
+2,1,24,,,,1,Capororoca 1,tree
+2,3,48,,,1,,Caroba,Arbusto
+2,1,8,,,,1,Carqueija,Erva
+2,1,21,,,,1,Carqueija,Erva
+2,2,25,,,1,1,Carqueija,Erva
+3,2,36,,,,1,Carqueija,Erva
+2,4,65,,,,1,Carqueija,Erva
+3,4,70,,,,1,Carqueija,Erva
+3,5,87,,,,2,Carqueija,Erva
+3,5,89,,,,1,Carqueija,Erva
+3,5,90,,,,1,Casearia sp.,tree
+2,1,22,,,,1,Cica,Indet.
+2,6,98,,,,1,Cipo branco,Cipó
+1,1,1,,,,1,Cipo branco,Cipó
+1,1,4,,,,1,Cipo branco,Cipó
+1,1,6,,,,1,Cipo branco,Cipó
+2,1,12,,,1,,Cipo branco,Cipó
+3,1,13,,,1,,Cipo branco,Cipó
+2,1,22,,,,1,Cipo branco,Cipó
+2,2,25,,,,2,Cipo branco,Cipó
+2,2,27,,,1,,Cipo branco,Cipó
+3,3,52,,,1,,Cipo branco,Cipó
+2,4,61,,,,1,Cipo branco,Cipó
+2,4,63,,,1,,Cipo branco,Cipó
+2,4,66,,,1,1,Cipo branco,Cipó
+3,4,69,,,,1,Cipo branco,Cipó
+1,6,91,,,,1,Cipo branco,Cipó
+1,6,95,,,1,,Cipo branco,Cipó
+2,6,102,,,,1,Cipo branco,Cipó
+1,4,56,,,,1,Cipó lanudo,Cipó
+2,1,23,,,,1,Cipó ramagem,Cipó
+2,1,21,,,,1,Cipó rasteiro,Cipó
+1,1,2,,,,2,Cipó triângulo,Cipó
+1,1,6,,,,1,Cipó triângulo,Cipó
+2,1,24,6,15,1,,Cipó triângulo,Cipó
+1,5,75,,,,1,Cipó triângulo,Cipó
+1,5,76,,,,1,Cipó triângulo,Cipó
+1,5,78,,,1,,Cipó triângulo,Cipó
+3,5,85,,,,1,Cipó triângulo,Cipó
+1,1,3,,,,1,Cipó trifoliolado,Cipó
+1,1,4,,,,1,Cipó trifoliolado,Cipó
+1,1,5,,,,1,Cipó trifoliolado,Cipó
+1,1,6,,,,1,Cipó trifoliolado,Cipó
+2,1,9,,,,1,Cipó trifoliolado,Cipó
+2,1,20,,,,1,Cipó trifoliolado,Cipó
+2,1,22,,,,1,Cipó trifoliolado,Cipó
+1,4,56,,,,1,Cipó trifoliolado,Cipó
+1,4,57,,,,2,Cipó trifoliolado,Cipó
+1,4,58,,,,2,Cipó trifoliolado,Cipó
+1,4,59,,,,1,Cipó trifoliolado,Cipó
+3,4,67,,,,1,Cipó trifoliolado,Cipó
+3,4,68,,,,1,Cipó trifoliolado,Cipó
+3,4,69,,,,1,Cipó trifoliolado,Cipó
+3,4,72,,,,1,Cipó trifoliolado,Cipó
+1,5,73,,,,1,Cipó trifoliolado,Cipó
+1,5,74,,,,1,Cipó trifoliolado,Cipó
+1,5,76,,,,1,Cipó trifoliolado,Cipó
+1,5,78,,,,2,Cipó trifoliolado,Cipó
+2,5,84,,,1,,Cipó trifoliolado,Cipó
+3,5,89,,,,1,Cipó trifoliolado,Cipó
+1,6,93,,,,1,Cipó trifoliolado,Cipó
+1,6,94,,,,1,Cipó trifoliolado,Cipó
+1,6,95,,,,1,Cipó trifoliolado,Cipó
+1,6,96,6,20,,2,Cipó trifoliolado,Cipó
+2,6,98,,,,2,Cipó trifoliolado,Cipó
+3,6,105,,,,1,Cipó trifoliolado,Cipó
+1,1,4,,,1,,Cipó vermelho,Cipó
+2,1,7,,,,1,Cipó vermelho,Cipó
+2,1,20,,,1,,Cipó vermelho,Cipó
+2,1,21,,,1,,Cipó vermelho,Cipó
+1,4,59,,,1,,Cipó vermelho,Cipó
+2,4,64,4,29,1,,Cipó vermelho,Cipó
+3,4,67,,,1,,Cipó vermelho,Cipó
+3,5,87,,,1,,Cipó vermelho,Cipó
+2,1,10,,,1,,Corona,Indet.
+2,1,11,,,,1,Corona,Indet.
+1,1,1,,,,1,Cyperaceae ,Capim
+1,1,3,,,,1,Cyperaceae ,Capim
+1,1,4,,,,1,Cyperaceae ,Capim
+1,1,5,,,,3,Cyperaceae ,Capim
+1,3,41,,,,1,Cyperaceae ,Capim
+1,4,57,,,,2,Cyperaceae ,Capim
+1,4,60,,,,3,Cyperaceae ,Capim
+2,4,62,,,,3,Cyperaceae ,Capim
+2,4,63,,,,3,Cyperaceae ,Capim
+2,4,64,,,,5,Cyperaceae ,Capim
+3,4,68,,,,2,Cyperaceae ,Capim
+3,4,71,,,,2,Cyperaceae ,Capim
+1,5,73,,,,3,Cyperaceae ,Capim
+1,5,75,,,,1,Cyperaceae ,Capim
+1,5,76,,,,2,Cyperaceae ,Capim
+2,5,79,,,,1,Cyperaceae ,Capim
+3,5,85,,,,1,Cyperaceae ,Capim
+3,5,90,,,,2,Cyperaceae ,Capim
+1,6,91,,,,5,Cyperaceae ,Capim
+1,6,92,,,,2,Cyperaceae ,Capim
+1,6,93,,,,3,Cyperaceae ,Capim
+1,6,94,,,,4,Cyperaceae ,Capim
+1,6,95,,,,3,Cyperaceae ,Capim
+2,6,98,,,,2,Cyperaceae ,Capim
+2,6,101,,,,1,Cyperaceae ,Capim
+1,3,42,6,7,1,,Dendezeiro,tree
+1,1,1,1,14,3,,Embaúba,tree
+2,1,7,,,,1,Embaúba,tree
+2,1,9,3,10,2,,Embaúba,tree
+2,1,12,6,10,2,1,Embaúba,tree
+3,1,14,,,,2,Embaúba,tree
+3,1,15,3,8,1,,Embaúba,tree
+2,1,23,,,1,,Embaúba,tree
+2,2,25,1,19,2,,Embaúba,tree
+2,2,27,,,1,,Embaúba,tree
+2,2,28,,,7,1,Embaúba,tree
+2,2,30,,,,1,Embaúba,tree
+3,2,31,,,1,,Embaúba,tree
+3,2,34,,,,1,Embaúba,tree
+3,2,36,6,7,3,,Embaúba,tree
+1,3,37,,,2,1,Embaúba,tree
+1,3,40,,,1,,Embaúba,tree
+1,3,42,,,1,,Embaúba,tree
+2,3,44,2,10,1,,Embaúba,tree
+2,3,46,,,1,1,Embaúba,tree
+2,3,47,,,1,,Embaúba,tree
+2,3,48,,,,1,Embaúba,tree
+3,3,53,5,7,2,,Embaúba,tree
+3,3,54,6,5,1,,Embaúba,tree
+1,4,56,,,,1,Embaúba,tree
+1,4,57,,,,1,Embaúba,tree
+1,4,58,,,1,1,Embaúba,tree
+1,4,59,,,2,,Embaúba,tree
+2,4,61,1,11,6,1,Embaúba,tree
+2,4,62,2,20,2,,Embaúba,tree
+2,4,63,3,17,3,1,Embaúba,tree
+2,4,64,,,6,3,Embaúba,tree
+2,4,65,,,3,,Embaúba,tree
+2,4,66,,,2,,Embaúba,tree
+3,4,67,,,2,2,Embaúba,tree
+3,4,68,2,16,3,,Embaúba,tree
+3,4,69,,,1,,Embaúba,tree
+3,4,70,,,3,1,Embaúba,tree
+3,4,71,,,1,,Embaúba,tree
+3,4,72,,,5,,Embaúba,tree
+1,5,77,,,,2,Embaúba,tree
+2,5,79,1,17,1,,Embaúba,tree
+2,5,80,,,1,,Embaúba,tree
+2,5,81,,,1,1,Embaúba,tree
+2,5,82,4,7,1,,Embaúba,tree
+2,5,83,5,10,2,,Embaúba,tree
+2,5,84,6,14,1,,Embaúba,tree
+3,5,87,,,2,,Embaúba,tree
+3,5,88,,,,2,Embaúba,tree
+3,5,89,,,,1,Embaúba,tree
+1,6,91,,,1,,Embaúba,tree
+1,6,92,2,15,2,,Embaúba,tree
+1,6,93,,,,1,Embaúba,tree
+2,6,97,,,1,,Embaúba,tree
+2,6,99,,,1,,Embaúba,tree
+2,6,100,4,12,5,,Embaúba,tree
+2,6,101,,,3,1,Embaúba,tree
+2,6,102,,,1,,Embaúba,tree
+3,6,103,1,13,4,1,Embaúba,tree
+3,6,104,,,3,,Embaúba,tree
+3,6,105,,,1,,Embaúba,tree
+3,6,107,,,3,,Embaúba,tree
+3,6,108,6,9,1,1,Embaúba,tree
+2,5,84,,,1,,Erva cheirosa,Erva
+2,2,26,,,,1,Erva lanuda,Erva
+1,1,4,,,,1,Euforbiaceae árvore,tree
+2,5,81,,,,1,Fabaceae escandente,Cipó
+1,1,2,,,,3,Folha fogo,Erva
+1,1,5,,,,4,Folha fogo,Erva
+2,1,7,,,,3,Folha fogo,Erva
+2,1,8,,,,6,Folha fogo,Erva
+2,1,9,,,,2,Folha fogo,Erva
+2,1,10,,,,3,Folha fogo,Erva
+2,1,11,,,,1,Folha fogo,Erva
+2,1,12,,,,1,Folha fogo,Erva
+2,1,20,,,,1,Folha fogo,Erva
+2,2,26,,,,1,Folha fogo,Erva
+2,2,27,,,,8,Folha fogo,Erva
+2,2,28,,,1,1,Folha fogo,Erva
+2,2,29,,,,5,Folha fogo,Erva
+2,2,30,6,8,5,,Folha fogo,Erva
+3,2,31,,,1,,Folha fogo,Erva
+1,3,39,,,,2,Folha fogo,Erva
+1,3,40,,,,5,Folha fogo,Erva
+1,3,41,5,12,,2,Folha fogo,Erva
+1,3,42,,,,1,Folha fogo,Erva
+2,3,43,,,,5,Folha fogo,Erva
+2,3,44,,,1,3,Folha fogo,Erva
+2,3,45,,,,2,Folha fogo,Erva
+2,3,46,,,,2,Folha fogo,Erva
+2,3,47,,,,9,Folha fogo,Erva
+2,3,48,,,,9,Folha fogo,Erva
+3,3,49,,,,2,Folha fogo,Erva
+3,3,50,,,,3,Folha fogo,Erva
+3,3,51,3,4,,3,Folha fogo,Erva
+3,3,52,,,2,,Folha fogo,Erva
+3,3,54,,,,1,Folha fogo,Erva
+1,4,56,,,,1,Folha fogo,Erva
+1,4,57,,,,1,Folha fogo,Erva
+1,4,58,,,,2,Folha fogo,Erva
+1,4,59,,,2,2,Folha fogo,Erva
+1,4,60,,,,2,Folha fogo,Erva
+2,4,61,,,,3,Folha fogo,Erva
+2,4,62,,,1,3,Folha fogo,Erva
+2,4,63,,,,3,Folha fogo,Erva
+2,4,64,,,,3,Folha fogo,Erva
+2,4,65,,,1,1,Folha fogo,Erva
+2,4,66,,,1,3,Folha fogo,Erva
+3,4,67,,,,2,Folha fogo,Erva
+3,4,68,,,2,5,Folha fogo,Erva
+3,4,69,,,,4,Folha fogo,Erva
+3,4,71,,,,5,Folha fogo,Erva
+3,4,72,,,,5,Folha fogo,Erva
+1,5,73,,,,2,Folha fogo,Erva
+1,5,75,,,,2,Folha fogo,Erva
+1,5,76,,,,2,Folha fogo,Erva
+1,5,77,,,,1,Folha fogo,Erva
+2,5,79,,,,7,Folha fogo,Erva
+2,5,80,,,2,2,Folha fogo,Erva
+2,5,81,,,3,2,Folha fogo,Erva
+2,5,82,,,,2,Folha fogo,Erva
+2,5,83,,,,5,Folha fogo,Erva
+2,5,84,,,1,7,Folha fogo,Erva
+3,5,85,,,,2,Folha fogo,Erva
+3,5,86,,,,1,Folha fogo,Erva
+3,5,88,,,,7,Folha fogo,Erva
+3,5,89,,,,2,Folha fogo,Erva
+3,5,90,,,,1,Folha fogo,Erva
+1,6,91,,,,2,Folha fogo,Erva
+1,6,92,,,,2,Folha fogo,Erva
+1,6,93,,,,2,Folha fogo,Erva
+1,6,94,,,,1,Folha fogo,Erva
+1,6,96,,,,1,Folha fogo,Erva
+2,6,97,,,,5,Folha fogo,Erva
+2,6,98,2,17,5,3,Folha fogo,Erva
+2,6,101,,,,4,Folha fogo,Erva
+2,6,102,,,3,2,Folha fogo,Erva
+3,6,103,,,,5,Folha fogo,Erva
+3,6,104,,,,3,Folha fogo,Erva
+3,6,105,,,,12,Folha fogo,Erva
+3,6,106,,,,3,Folha fogo,Erva
+3,6,108,,,3,3,Folha fogo,Erva
+2,1,10,4,5,1,,Gameleira (Ficus sp.),tree
+3,1,14,,,1,,Gameleira (Ficus sp.),tree
+2,2,28,,,,1,Gameleira (Ficus sp.),tree
+1,4,55,,,,1,Gameleira (Ficus sp.),tree
+3,4,70,,,1,,Gameleira (Ficus sp.),tree
+3,5,87,3,15,1,,Gameleira (Ficus sp.),tree
+3,6,107,,,,1,Gameleira (Ficus sp.),tree
+3,2,34,,,,1,Goiaba,tree
+2,5,82,,,1,,Goiaba,tree
+3,1,18,,,,3,Guanxuma,Erva
+1,1,2,,,,2,Guanxuma 1,Erva
+1,1,6,,,,5,Guanxuma 1,Erva
+2,1,8,,,,1,Guanxuma 1,Erva
+3,1,14,,,,1,Guanxuma 1,Erva
+3,1,15,,,,2,Guanxuma 1,Erva
+3,1,16,,,,,Guanxuma 1,Erva
+3,1,17,,,,5,Guanxuma 1,Erva
+2,1,19,,,,5,Guanxuma 1,Erva
+2,1,22,,,,3,Guanxuma 1,Erva
+2,1,23,,,,5,Guanxuma 1,Erva
+2,1,24,,,,5,Guanxuma 1,Erva
+2,2,25,,,,2,Guanxuma 1,Erva
+3,2,34,,,2,,Guanxuma 1,Erva
+1,3,39,,,,2,Guanxuma 1,Erva
+2,3,44,,,,2,Guanxuma 1,Erva
+3,3,49,,,,2,Guanxuma 1,Erva
+1,4,60,,,,2,Guanxuma 1,Erva
+3,4,69,,,1,,Guanxuma 1,Erva
+3,4,70,,,,2,Guanxuma 1,Erva
+1,5,73,,,,5,Guanxuma 1,Erva
+1,5,74,,,,5,Guanxuma 1,Erva
+1,5,75,,,,5,Guanxuma 1,Erva
+1,5,76,,,,2,Guanxuma 1,Erva
+1,5,77,,,,4,Guanxuma 1,Erva
+1,5,78,,,,6,Guanxuma 1,Erva
+2,5,79,,,,1,Guanxuma 1,Erva
+2,5,81,,,,2,Guanxuma 1,Erva
+3,5,85,,,,4,Guanxuma 1,Erva
+3,5,86,,,,11,Guanxuma 1,Erva
+3,5,87,,,,5,Guanxuma 1,Erva
+3,5,89,,,,2,Guanxuma 1,Erva
+1,6,91,,,,5,Guanxuma 1,Erva
+1,6,92,,,,2,Guanxuma 1,Erva
+1,6,93,,,,3,Guanxuma 1,Erva
+1,6,94,,,,2,Guanxuma 1,Erva
+1,6,95,,,,1,Guanxuma 1,Erva
+1,6,96,,,,2,Guanxuma 1,Erva
+2,6,97,,,,2,Guanxuma 1,Erva
+2,6,98,,,,3,Guanxuma 1,Erva
+2,6,99,,,5,,Guanxuma 1,Erva
+2,6,100,,,2,,Guanxuma 1,Erva
+2,6,101,,,,2,Guanxuma 1,Erva
+1,4,56,,,,4,Guanxuma 2,Erva
+1,4,60,,,,2,Guanxuma 2,Erva
+2,4,62,,,,1,Guanxuma 2,Erva
+2,4,64,,,,3,Guanxuma 2,Erva
+3,4,71,,,,3,Guanxuma 2,Erva
+3,4,72,,,1,1,Guanxuma 2,Erva
+1,5,76,,,,2,Guanxuma 2,Erva
+1,5,78,,,1,1,Guanxuma 2,Erva
+2,5,82,,,,1,Guanxuma 2,Erva
+3,5,89,,,,1,Guanxuma 2,Erva
+1,6,96,,,,2,Guanxuma 2,Erva
+2,6,102,,,2,,Guanxuma 2,Erva
+1,1,3,,,,1,Helicônia,Herbácea
+2,1,24,,,,1,Helicônia,Herbácea
+1,4,58,,,1,,Helicônia,Herbácea
+2,4,62,,,1,,Indet. 1,Indet.
+2,4,64,,,,1,Indet. 2,Indet.
+1,5,74,,,,1,Ingá sp.,tree
+3,1,14,,,2,,Jenipapo do mato/Miconia folha larga,tree
+3,2,33,,,,1,Jubebão com espinho,Arbusto
+2,1,24,,,,1,Jubebinha,Arbusto
+1,4,55,,,,1,Jubebinha,
+3,4,70,4,20,2,1,Jubebinha,
+2,5,79,,,,1,Jubebinha,
+2,1,7,,,,3,Lagarteiro,Herbácea
+2,1,12,,,,2,Lagarteiro,Herbácea
+3,1,13,,,,1,Lagarteiro,Herbácea
+3,1,15,,,1,,Lagarteiro,Herbácea
+3,1,18,,,,3,Lagarteiro,Herbácea
+2,1,19,,,,2,Lagarteiro,Herbácea
+2,1,21,,,,1,Lagarteiro,Herbácea
+2,2,25,,,,2,Lagarteiro,Herbácea
+1,3,37,,,,4,Lagarteiro,Herbácea
+1,3,38,,,,2,Lagarteiro,Herbácea
+1,3,41,,,,2,Lagarteiro,Herbácea
+1,3,42,,,,1,Lagarteiro,Herbácea
+2,3,43,,,,2,Lagarteiro,Herbácea
+3,3,53,,,,2,Lagarteiro,Herbácea
+3,3,54,,,,1,Lagarteiro,Herbácea
+1,4,59,,,1,,Lagarteiro,Herbácea
+3,4,67,,,,1,Lagarteiro,Herbácea
+3,4,72,,,1,,Lagarteiro,Herbácea
+1,5,73,,,,1,Lagarteiro,Herbácea
+1,5,75,,,,1,Lagarteiro,Herbácea
+2,5,84,,,1,,Lagarteiro,Herbácea
+3,5,86,2,14,1,,Lagarteiro,Herbácea
+3,5,88,,,,1,Lagarteiro,Herbácea
+1,6,92,,,,1,Lagarteiro,Herbácea
+1,6,96,,,,2,Lagarteiro,Herbácea
+2,6,97,,,,1,Lagarteiro,Herbácea
+2,6,99,,,1,,Lagarteiro,Herbácea
+3,6,104,2,13,3,,Lagarteiro,Herbácea
+3,6,105,,,1,,Lagarteiro,Herbácea
+3,6,106,,,,1,Lagarteiro,Herbácea
+3,6,107,5,12,2,,Lagarteiro,Herbácea
+3,6,108,,,1,,Lagarteiro,Herbácea
+3,2,34,,,,1,Landi,Indet.
+2,1,9,,,1,,Landirana,Erva
+3,3,50,,,,1,Levante,Indet.
+1,1,1,,,,2,Louro folhão,tree
+3,1,16,,,,1,Louro folhão,tree
+2,1,21,,,,2,Louro folhão,tree
+2,1,23,,,,1,Louro folhão,tree
+1,1,1,,,,0.05,Mamiqué,Herbácea
+1,1,2,,,,0.5,Mamiqué,Herbácea
+1,1,3,,,,0.1,Mamiqué,Herbácea
+1,1,4,,,,0.05,Mamiqué,Herbácea
+1,1,5,,,,0.1,Mamiqué,Herbácea
+1,1,6,,,,0.05,Mamiqué,Herbácea
+1,4,56,,,,0.05,Mamiqué,Herbácea
+1,4,57,,,,0.05,Mamiqué,Herbácea
+1,4,59,,,,0.05,Mamiqué,Herbácea
+1,4,60,,,,0.05,Mamiqué,Herbácea
+2,4,61,,,,0.2,Mamiqué,Herbácea
+2,4,62,,,,0.05,Mamiqué,Herbácea
+2,4,63,,,,0.4,Mamiqué,Herbácea
+2,4,64,,,,0.15,Mamiqué,Herbácea
+2,4,65,,,,0.05,Mamiqué,Herbácea
+2,4,66,,,,0.35,Mamiqué,Herbácea
+3,4,67,,,,0.1,Mamiqué,Herbácea
+3,4,68,,,,0.1,Mamiqué,Herbácea
+3,4,70,,,,0.05,Mamiqué,Herbácea
+3,4,71,,,,0.05,Mamiqué,Herbácea
+3,4,72,,,,0.05,Mamiqué,Herbácea
+1,5,73,,,,0.35,Mamiqué,Herbácea
+1,5,74,,,,0.05,Mamiqué,Herbácea
+1,5,75,,,,0.1,Mamiqué,Herbácea
+1,5,76,,,,0.05,Mamiqué,Herbácea
+1,5,77,,,,0.2,Mamiqué,Herbácea
+1,5,78,,,,0.1,Mamiqué,Herbácea
+2,5,79,,,,0.1,Mamiqué,Herbácea
+2,5,80,,,,0.05,Mamiqué,Herbácea
+2,5,81,,,,0.05,Mamiqué,Herbácea
+2,5,82,,,,0.05,Mamiqué,Herbácea
+2,5,83,,,,0.05,Mamiqué,Herbácea
+2,5,84,,,0.1,,Mamiqué,Herbácea
+3,5,86,,,,0.05,Mamiqué,Herbácea
+3,5,87,,,,0.1,Mamiqué,Herbácea
+3,5,88,,,,0.05,Mamiqué,Herbácea
+3,5,89,,,,0.1,Mamiqué,Herbácea
+3,5,90,,,,0.2,Mamiqué,Herbácea
+1,6,91,,,,0.05,Mamiqué,Herbácea
+1,6,92,,,,0.05,Mamiqué,Herbácea
+1,6,93,,,,0.05,Mamiqué,Herbácea
+1,6,95,,,,0.05,Mamiqué,Herbácea
+1,6,96,,,,0.15,Mamiqué,Herbácea
+2,6,97,,,,0.25,Mamiqué,Herbácea
+2,6,98,,,,0.2,Mamiqué,Herbácea
+2,6,99,,,,0.05,Mamiqué,Herbácea
+2,6,101,,,,0.3,Mamiqué,Herbácea
+2,6,102,,,,0.2,Mamiqué,Herbácea
+3,6,103,,,,0.5,Mamiqué,Herbácea
+3,6,104,,,,0.05,Mamiqué,Herbácea
+3,6,105,,,,0.05,Mamiqué,Herbácea
+3,6,106,,,,0.95,Mamiqué,Herbácea
+3,6,107,,,,1,Mamiqué,Herbácea
+3,6,108,,,,0.05,Mamiqué,Herbácea
+2,1,11,,,,1,Mata pasto,Herbácea
+3,2,36,,,,1,Mata pasto,Herbácea
+3,4,67,,,,1,Mata pulga,Herbácea
+1,3,40,,,,1,Mato novo,Erva
+1,1,2,2,19,1,,Morototó,tree
+1,1,3,,,2,,Morototó,tree
+1,1,4,,,2,1,Morototó,tree
+1,1,6,,,2,1,Morototó,tree
+2,1,7,1,15,2,,Morototó,tree
+2,1,9,,,1,,Morototó,tree
+2,1,11,,,,1,Morototó,tree
+3,1,13,,,,1,Morototó,tree
+2,1,22,,,,1,Morototó,tree
+2,1,24,,,,2,Morototó,tree
+2,2,27,,,1,,Morototó,tree
+2,2,28,,,2,,Morototó,tree
+3,2,31,1,9,1,,Morototó,tree
+1,3,37,,,,1,Morototó,tree
+1,3,39,,,,2,Morototó,tree
+1,3,41,,,,1,Morototó,tree
+2,3,46,,,1,,Morototó,tree
+3,3,50,,,1,,Morototó,tree
+1,4,55,,,2,,Morototó,tree
+1,4,60,,,2,,Morototó,tree
+2,4,63,,,1,,Morototó,tree
+3,4,70,,,1,,Morototó,tree
+1,5,74,,,,1,Morototó,tree
+1,5,76,4,20,3,,Morototó,tree
+1,5,78,6,43,1,,Morototó,tree
+2,5,81,3,15,1,,Morototó,tree
+2,5,83,,,1,,Morototó,tree
+3,5,85,,,1,,Morototó,tree
+3,5,86,,,1,,Morototó,tree
+3,5,88,4,17,1,,Morototó,tree
+1,6,91,1,20,1,1,Morototó,tree
+2,6,97,,,1,,Morototó,tree
+3,6,107,,,1,1,Morototó,tree
+1,1,1,,,1,1,Mundururu branco,tree
+1,1,3,,,,1,Mundururu branco,tree
+1,1,4,,,1,,Mundururu branco,tree
+1,1,6,6,14,2,,Mundururu branco,tree
+2,1,12,,,,1,Mundururu branco,tree
+3,1,13,1,13,2,,Mundururu branco,tree
+2,1,20,2,9,1,,Mundururu branco,tree
+2,1,21,3,11,1,,Mundururu branco,tree
+2,1,22,,,,1,Mundururu branco,tree
+3,2,32,,,1,,Mundururu branco,tree
+1,4,55,,,5,6,Mundururu branco,tree
+1,4,57,,,2,5,Mundururu branco,tree
+1,4,59,,,1,1,Mundururu branco,tree
+2,4,63,,,1,1,Mundururu branco,tree
+2,4,65,,,1,,Mundururu branco,tree
+2,4,66,,,1,1,Mundururu branco,tree
+3,4,69,,,3,,Mundururu branco,tree
+3,4,70,,,2,1,Mundururu branco,tree
+3,4,72,6,23,2,,Mundururu branco,tree
+1,5,73,,,,1,Mundururu branco,tree
+1,5,76,,,2,1,Mundururu branco,tree
+3,5,85,,,,1,Mundururu branco,tree
+3,5,88,,,1,1,Mundururu branco,tree
+3,5,90,,,3,,Mundururu branco,tree
+1,6,96,,,,1,Mundururu branco,tree
+3,6,105,,,,1,Mundururu branco,tree
+1,1,3,,,1,,Mundururu folha larga,tree
+1,4,55,,,,1,Mundururu folha larga,tree
+1,4,57,3,30,1,,Mundururu folha larga,tree
+3,1,13,,,1,1,Mundururu preto,tree
+2,1,21,,,,2,Mundururu preto,tree
+3,3,52,,,,2,Mundururu preto,tree
+1,4,55,,,1,,Mundururu preto,tree
+1,4,59,,,1,,Mundururu preto,tree
+2,4,66,,,,1,Mundururu preto,tree
+3,4,69,,,1,,Mundururu preto,tree
+3,4,70,,,,1,Mundururu preto,tree
+3,4,71,,,1,,Mundururu preto,tree
+2,3,45,3,7,1,1,Murici preto,tree
+2,3,46,4,10,1,,Murici preto,tree
+1,4,55,1,24,1,,Murici preto,tree
+1,4,58,,,1,,Murici preto,tree
+1,6,95,5,24,2,,Murici preto,tree
+2,6,99,3,10,1,,Murici preto,tree
+2,6,101,5,17,1,,Murici preto,tree
+2,6,102,6,12,2,,Murici preto,tree
+3,6,107,,,1,,Murici preto,tree
+3,1,13,,,,1,Pau pombo,tree
+3,1,18,,,,1,Pau pombo,tree
+2,1,23,,,,1,Pau pombo,tree
+3,2,31,,,,3,Pau pombo,tree
+3,2,32,2,2,1,,Pau pombo,tree
+1,3,39,,,,1,Pau pombo,tree
+1,3,41,,,,1,Pau pombo,tree
+3,3,49,1,8,,1,Pau pombo,tree
+1,4,56,,,,1,Pau pombo,tree
+1,4,57,,,,2,Pau pombo,tree
+1,4,58,,,,1,Pau pombo,tree
+3,4,69,,,,1,Pau pombo,tree
+3,5,88,,,,1,Pau pombo,tree
+3,5,89,,,,1,Pau pombo,tree
+1,6,95,,,,1,Pau pombo,tree
+1,6,96,,,,1,Pau pombo,tree
+2,6,99,,,1,,Pau pombo,tree
+3,6,104,,,,2,Pau pombo,tree
+3,6,105,,,,1,Pau pombo,tree
+3,6,107,,,,1,Pau pombo,tree
+2,3,45,,,,1,Pé de galinha,Erva
+2,3,48,,,,1,Pé de galinha,Erva
+1,5,77,,,,1,Pé de galinha,Erva
+1,1,2,,,,1,Peito pombo,tree
+1,1,3,,,,1,Peito pombo,tree
+3,4,71,,,,2,Peito pombo,tree
+1,3,37,,,1,,Pequi de caipora,Indet.
+3,1,17,,,1,,Pinha,tree
+3,1,14,2,13,3,,Piper,Arbusto
+1,1,1,,,1,,Piper 1,Arbusto
+1,1,3,3,10,1,,Piper 1,Arbusto
+1,1,4,,,1,2,Piper 1,Arbusto
+1,1,5,5,11,1,,Piper 1,Arbusto
+1,1,6,,,1,,Piper 1,Arbusto
+2,1,9,,,2,,Piper 1,Arbusto
+2,1,11,5,6,1,1,Piper 1,Arbusto
+2,1,12,,,1,,Piper 1,Arbusto
+2,1,22,4,10,1,,Piper 1,Arbusto
+2,2,28,4,24,,1,Piper 1,Arbusto
+3,2,34,,,1,1,Piper 1,Arbusto
+3,2,35,5,2,1,,Piper 1,Arbusto
+1,3,38,,,2,,Piper 1,Arbusto
+3,3,51,,,,1,Piper 1,Arbusto
+1,4,55,,,4,,Piper 1,Arbusto
+1,4,58,4,17,2,,Piper 1,Arbusto
+1,4,59,5,22,2,,Piper 1,Arbusto
+1,4,60,,,3,,Piper 1,Arbusto
+2,4,64,,,,1,Piper 1,Arbusto
+3,4,69,3,18,1,,Piper 1,Arbusto
+3,4,70,,,,1,Piper 1,Arbusto
+3,4,71,5,16,1,,Piper 1,Arbusto
+3,4,72,,,,1,Piper 1,Arbusto
+1,5,73,1,21,1,,Piper 1,Arbusto
+1,5,74,,,,1,Piper 1,Arbusto
+1,5,76,,,,2,Piper 1,Arbusto
+1,5,77,5,17,1,,Piper 1,Arbusto
+1,5,78,,,1,1,Piper 1,Arbusto
+2,5,79,,,,1,Piper 1,Arbusto
+3,5,87,,,1,,Piper 1,Arbusto
+1,6,92,,,1,,Piper 1,Arbusto
+1,6,95,,,4,2,Piper 1,Arbusto
+2,6,100,,,4,,Piper 1,Arbusto
+1,1,2,,,,1,Piper 2,Arbusto
+2,1,8,2,11,1,,Piper 2,Arbusto
+2,1,12,,,1,,Piper 2,Arbusto
+2,1,22,,,,1,Piper 2,Arbusto
+2,2,25,,,1,,Piper 2,Arbusto
+2,2,26,,,,2,Piper 2,Arbusto
+2,2,28,,,,2,Piper 2,Arbusto
+3,2,31,,,1,2,Piper 2,Arbusto
+1,3,42,,,,1,Piper 2,Arbusto
+2,3,44,,,,1,Piper 2,Arbusto
+3,3,52,4,5,1,,Piper 2,Arbusto
+1,4,60,,,,3,Piper 2,Arbusto
+2,4,62,,,,2,Piper 2,Arbusto
+3,4,67,,,,1,Piper 2,Arbusto
+3,4,68,,,,1,Piper 2,Arbusto
+3,4,70,,,,1,Piper 2,Arbusto
+1,5,75,,,,2,Piper 2,Arbusto
+1,5,77,,,,4,Piper 2,Arbusto
+1,5,78,,,,1,Piper 2,Arbusto
+2,5,81,,,,1,Piper 2,Arbusto
+2,5,83,,,,1,Piper 2,Arbusto
+1,6,95,,,,3,Piper 2,Arbusto
+2,6,99,,,,1,Piper 2,Arbusto
+2,6,101,,,,4,Piper 2,Arbusto
+3,6,107,,,,1,Piper 2,Arbusto
+1,4,58,,,,1,Piper 3,Arbusto
+3,5,88,,,,1,Piper 3,Arbusto
+1,6,96,,,,1,Piper 3,Arbusto
+1,6,94,,,1,5,Psidium sp.,tree
+2,6,100,,,1,,Psidium sp.,tree
+1,1,1,,,2,,Rabujo cachorro,Arbusto
+3,2,36,,,1,,Rabujo cachorro,Arbusto
+2,3,43,1,8,,1,Rabujo cachorro,Arbusto
+2,3,46,,,1,,Rabujo cachorro,Arbusto
+3,4,67,,,,1,Rabujo cachorro,Arbusto
+3,4,69,,,,1,Rabujo cachorro,Arbusto
+2,5,81,,,1,,Rabujo cachorro,Arbusto
+3,5,88,,,,1,Rabujo cachorro,Arbusto
+1,6,92,,,,1,Ramagem,Cipó
+2,2,30,,,,1,Ramagem branca,Cipó
+3,3,50,,,,1,Ramagem branca,Cipó
+1,1,2,,,,1,Rapigibão,Arbusto
+1,1,3,,,,1,Rapigibão,Arbusto
+1,4,56,,,,1,Rapigibão,Arbusto
+1,4,57,,,1,,Rapigibão,Arbusto
+1,4,59,,,1,,Rapigibão,Arbusto
+1,4,60,6,26,1,1,Rapigibão,Arbusto
+2,4,62,,,1,,Rapigibão,Arbusto
+2,4,64,,,,4,Rapigibão,Arbusto
+2,4,66,6,15,2,,Rapigibão,Arbusto
+3,4,71,,,,1,Rapigibão,Arbusto
+3,4,72,,,,3,Rapigibão,Arbusto
+1,5,75,3,13,,1,Rapigibão,Arbusto
+1,5,77,,,,1,Rapigibão,Arbusto
+1,5,78,,,1,1,Rapigibão,Arbusto
+2,5,81,,,1,,Rapigibão,Arbusto
+2,5,82,,,,1,Rapigibão,Arbusto
+2,5,84,,,1,,Rapigibão,Arbusto
+3,5,85,1,11,1,,Rapigibão,Arbusto
+1,6,91,,,1,,Rapigibão,Arbusto
+1,6,93,,,1,,Rapigibão,Arbusto
+1,6,96,,,,2,Rapigibão,Arbusto
+2,6,97,,,1,,Rapigibão,Arbusto
+1,1,1,,,,2,Samambaia,Herbácea
+1,1,2,,,,4,Samambaia,Herbácea
+1,1,4,,,,1,Samambaia,Herbácea
+3,1,14,,,,2,Samambaia,Herbácea
+3,1,18,,,1,3,Samambaia,Herbácea
+2,1,20,,,,5,Samambaia,Herbácea
+2,2,25,,,,8,Samambaia,Herbácea
+1,3,40,,,,4,Samambaia,Herbácea
+1,3,41,,,,3,Samambaia,Herbácea
+1,3,42,,,,1,Samambaia,Herbácea
+1,4,60,,,,1,Samambaia,Herbácea
+2,4,62,,,,3,Samambaia,Herbácea
+2,5,79,,,,3,Samambaia,Herbácea
+3,2,34,,,,4,Samambaia,Herbácea
+1,1,2,,,,1,Samambaia cipó,Cipó
+1,1,4,,,,1,Samambaia cipó,Cipó
+3,1,14,,,1,,Samambaia cipó,Cipó
+2,1,21,,,,1,Samambaia cipó,Cipó
+3,2,34,4,13,2,,Samambaia cipó,Cipó
+2,4,62,,,1,,Samambaia cipó,Cipó
+2,4,64,,,2,,Samambaia cipó,Cipó
+2,4,65,,,1,,Samambaia cipó,Cipó
+3,4,72,,,1,,Samambaia cipó,Cipó
+1,6,92,,,1,,Samambaia cipó,Cipó
+2,6,102,,,1,,Samambaia cipó,Cipó
+1,4,56,,,,1,Senna macranthera,tree
+1,5,73,,,,1,Senna macranthera,tree
+1,5,77,,,,2,Senna macranthera,tree
+1,5,78,,,,21,Senna macranthera,tree
+1,6,91,,,,2,Senna macranthera,tree
+1,6,94,,,,1,Senna macranthera,tree
+1,6,95,,,,1,Senna macranthera,tree
+1,6,96,,,,4,Senna macranthera,tree
+3,3,53,,,,1,Senna sp.,tree
+1,1,4,4,16,1,1,Solteira,tree
+1,1,5,,,1,,Solteira,tree
+3,1,13,,,1,,Solteira,tree
+3,1,17,5,7,1,,Solteira,tree
+2,1,19,,,2,,Solteira,tree
+2,2,27,,,2,,Solteira,tree
+2,2,28,,,5,,Solteira,tree
+2,2,29,,,2,,Solteira,tree
+3,2,33,3,3,1,1,Solteira,tree
+3,2,36,,,1,,Solteira,tree
+2,3,44,,,1,,Solteira,tree
+2,3,45,,,1,,Solteira,tree
+2,3,47,5,13,1,,Solteira,tree
+2,3,48,6,15,2,,Solteira,tree
+3,3,50,2,9,2,,Solteira,tree
+1,4,57,,,1,,Solteira,tree
+2,4,63,,,3,,Solteira,tree
+2,4,66,,,1,,Solteira,tree
+3,4,67,1,14,2,,Solteira,tree
+3,4,69,,,1,,Solteira,tree
+3,4,72,,,2,,Solteira,tree
+3,5,87,,,2,1,Solteira,tree
+3,5,90,6,11,2,,Solteira,tree
+1,6,91,,,1,,Solteira,tree
+1,6,93,,,,1,Solteira,tree
+1,6,96,,,,1,Solteira,tree
+2,6,101,,,1,,Solteira,tree
+3,6,104,,,1,1,Solteira,tree
+3,6,105,,,2,,Solteira,tree
+3,1,15,,,1,,Solteirinha,tree
+2,1,24,,,,2,Taboa,Indet.
+1,3,37,1,18,1,5,Taipoca,Indet.
+2,1,7,,,,2,Tamanqueiro,tree
+1,3,38,,,,1,Tamanqueiro,tree
+1,3,39,3,10,,1,Tamanqueiro,tree
+3,3,49,,,,1,Tamanqueiro,tree
+3,3,53,,,,1,Tamanqueiro,tree
+1,1,2,,,,2,Taquari,Herbácea
+1,1,5,,,,1,Taquari,Herbácea
+3,1,18,,,,3,Taquari,Herbácea
+1,3,38,,,,1,Taquari,Herbácea
+3,3,49,,,,1,Taquari,Herbácea
+2,4,66,,,,1,Taquari,Herbácea
+3,4,70,,,,1,Taquari,Herbácea
+1,5,74,,,,1,Taquari,Herbácea
+2,5,79,,,,1,Taquari,Herbácea
+3,5,88,,,,1,Taquari,Herbácea
+1,6,94,,,,3,Taquari,Herbácea
+1,4,59,,,2,3,Urtiga,Arbusto
+1,5,76,,,,2,Urtiga,Arbusto
+3,5,89,5,17,,3,Urtiga,Arbusto
+3,1,16,,,,,,
+3,2,32,,,,,,
+3,2,33,,,,,,

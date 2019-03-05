@@ -1,0 +1,209 @@
+Plot,Treatm,Bl,sub,ID,small,big,Fieldname,lifeform
+7,4,2,,,1,,Acácia mangium,
+16,4,1,,,1,1,Acácia mangium,
+27,1,4,,,1,,Acácia mangium,
+40,1,5,3,1,1,,Acácia mangium,
+9,4,3,1,1,1,,Aegiphila sp.,Tree
+7,4,2,,,1,,Algodoeiro,Tree
+7,4,2,7,2,1,,Algodoeiro,Tree
+16,4,1,,,2,,Algodoeiro,Tree
+16,4,1,,,1,,Algodoeiro,Tree
+16,4,1,9,1,1,,Algodoeiro,Tree
+19,2,2,,,2,,Algodoeiro,Tree
+16,4,1,,,1,,Solanum com espinho,
+2,1,1,9,,1,,Arbusto indeterminado,
+9,4,3,,,1,,Asteraceae 1,
+12,5,3,3,2,1,,Asteraceae 1,
+27,1,4,6,1,1,,Asteraceae 1,
+27,1,4,9,4,1,1,Asteraceae 1,
+27,1,4,10,3,3,,Asteraceae 1,
+40,1,5,,,1,,Asteraceae 1,
+40,1,5,8,19,17,,Asteraceae 1,
+40,1,5,9,1,1,,Asteraceae 1,
+7,4,2,,,2,,Cordia,Tree
+7,4,2,6,5,2,,Cordia,Tree
+7,4,2,,,6,,Cordia,Tree
+10,1,3,3,1,1,,Cordia,Tree
+15,5,1,,,1,,Cordia,Tree
+16,4,1,7,4,1,,Cordia,Tree
+19,2,2,6,2,1,1,Cordia,Tree
+21,2,3,,,1,,Cordia,Tree
+15,5,1,1,5,,1,Cordia,Tree
+6,3,2,,,1,,Crotalaria sp.,
+7,4,2,4,1,1,,Crotalaria sp.,
+7,4,2,,,1,,Crotalaria sp.,
+12,5,3,7,1,1,,Crotalária sp. 2,
+40,1,5,7,1,1,,Crotalária sp. 2,
+15,5,1,1,,1,,Indeterminado,Tree
+15,5,1,,,1,,Indeterminado,Tree
+2,1,1,4,,1,,Indeterminado 1,Tree
+6,3,2,,,1,,Indeterminado 1,Tree
+6,3,2,,,,1,Indeterminado 1,Tree
+6,3,2,,,1,,Indeterminado 1,Tree
+6,3,2,9,1,1,,Indeterminado 1,Tree
+6,3,2,10,7,1,,Indeterminado 1,Tree
+15,5,1,1,,,1,Indeterminado 1,Tree
+15,5,1,2,1,,1,Indeterminado 1,Tree
+15,5,1,4,2,2,,Indeterminado 1,Tree
+15,5,1,6,4,4,,Indeterminado 1,Tree
+15,5,1,10,3,2,,Indeterminado 1,Tree
+15,5,1,,,,1,Indeterminado 1,Tree
+2,1,1,2,6,5,1,Indeterminado 1,Tree
+15,5,1,5,3,3,,Indeterminado 1,Tree
+6,3,2,,,2,,Indeterminado 2,Tree
+6,3,2,6,15,,11,Indeterminado 2,Tree
+6,3,2,,,4,,Indeterminado 2,Tree
+6,3,2,,,,1,Indeterminado 3,Tree
+7,4,2,2,4,2,1,Indeterminado 4,Tree
+7,4,2,3,0,,1,Indeterminado 5,Tree
+19,2,2,10,5,1,,Indeterminado 6,Tree
+20,1,2,3,2,1,,Indeterminado 7,Tree
+20,1,2,10,1,1,,Indeterminado 8,Tree
+11,3,3,9,2,1,,Indeterminado 9,Tree
+10,1,3,,,1,,Inga sp.,Tree
+6,3,2,8,3,,1,Lipia sp.,
+7,4,2,,,,1,Lipia sp.,
+15,5,1,1,,,1,Lipia sp.,
+16,4,1,4,1,,1,Lipia sp.,
+21,2,3,1,1,1,,Lipia sp.,
+40,1,5,1,1,1,,Lipia sp.,
+6,3,2,7,3,1,,Malvaceae 1,Tree
+6,3,2,,,1,,Mimosa,
+10,1,3,4,1,,1,Mimosa,
+10,1,3,9,3,,3,Mimosa,
+16,4,1,,,1,,Mimosa,
+20,1,2,2,2,2,,Mimosa,
+40,1,5,,,1,,Myrtaceae sp. 1,Tree
+20,1,2,,,1,,Peltophorum dubium,Tree
+2,1,1,1,1,,1,Schinus terebinthifolius,Tree
+6,3,2,5,5,3,,Schinus terebinthifolius,Tree
+7,4,2,,,1,,Schinus terebinthifolius,Tree
+7,4,2,,,4,,Schinus terebinthifolius,Tree
+9,4,3,10,2,1,,Schinus terebinthifolius,Tree
+10,1,3,2,3,2,,Schinus terebinthifolius,Tree
+12,5,3,,,1,,Schinus terebinthifolius,Tree
+15,5,1,7,3,1,,Schinus terebinthifolius,Tree
+19,2,2,,,2,,Schinus terebinthifolius,Tree
+20,1,2,1,1,1,,Schinus terebinthifolius,Tree
+21,2,3,2,2,1,,Schinus terebinthifolius,Tree
+21,2,3,,,1,,Schinus terebinthifolius,Tree
+21,2,3,8,2,2,,Schinus terebinthifolius,Tree
+21,2,3,,,1,,Schinus terebinthifolius,Tree
+21,2,3,10,1,1,,Schinus terebinthifolius,Tree
+40,1,5,,,1,,Schinus terebinthifolius,Tree
+40,1,5,6,1,,1,Schinus terebinthifolius,Tree
+40,1,5,,,,1,Schinus terebinthifolius,Tree
+21,2,3,3,1,1,,Senna macranthera,Tree
+20,1,2,7,1,,,Senna macranthera,Tree
+6,3,2,4,1,1,,Solanum com espinho,
+7,4,2,,,1,,Solanum com espinho,
+11,3,3,1,2,2,,Solanum com espinho,
+16,4,1,,,1,,Solanum com espinho,
+16,4,1,8,5,4,,Solanum com espinho,
+19,2,2,5,2,2,,Solanum com espinho,
+19,2,2,7,1,1,,Solanum com espinho,
+20,1,2,9,1,,,Solanum com espinho,
+27,1,4,,,1,,Solanum com espinho,
+40,1,5,4,4,2,,Solanum com espinho,
+6,3,2,,,1,,Solanum sp.,
+6,3,2,,,2,,Solanum sp.,
+7,4,2,1,4,1,,Solanum sp.,
+7,4,2,,,2,1,Solanum sp.,
+7,4,2,10,14,3,,Solanum sp.,
+9,4,3,,,1,,Solanum sp.,
+10,1,3,6,4,4,,Solanum sp.,
+11,3,3,2,1,1,,Solanum sp.,
+11,3,3,8,1,1,,Solanum sp.,
+15,5,1,1,,2,,Solanum sp.,
+16,4,1,2,3,2,,Solanum sp.,
+16,4,1,3,7,4,,Solanum sp.,
+16,4,1,,,1,,Solanum sp.,
+20,1,2,,,,1,Solanum sp.,
+20,1,2,5,3,1,,Solanum sp.,
+21,2,3,,,1,,Solanum sp.,
+21,2,3,9,4,2,1,Solanum sp.,
+7,4,2,,,1,,Tapirira,Tree
+9,4,3,2,2,1,,Tapirira,Tree
+20,1,2,,,1,,Tapirira,Tree
+20,1,2,8,1,1,,Tapirira,Tree
+21,2,3,7,3,1,,Tapirira,Tree
+40,1,5,2,1,1,,Tapirira,Tree
+40,1,5,10,2,2,,Tapirira,Tree
+2,1,1,4,3,2,,Trema,Tree
+2,1,1,9,2,1,,Trema,Tree
+6,3,2,1,1,1,,Trema,Tree
+6,3,2,,,,1,Trema,Tree
+7,4,2,9,5,1,,Trema,Tree
+11,3,3,,,1,,Trema,Tree
+16,4,1,1,2,1,,Trema,Tree
+1,3,4,1,0,,,,
+1,3,4,2,0,,,,
+1,3,4,3,0,,,,
+1,3,4,4,0,,,,
+1,3,4,5,0,,,,
+1,3,4,6,0,,,,
+1,3,4,7,0,,,,
+1,3,4,8,0,,,,
+1,3,4,9,0,,,,
+1,3,4,10,0,,,,
+2,1,1,3,0,,,,
+2,1,1,5,0,,,,
+2,1,1,6,0,,,,
+2,1,1,7,0,,,,
+2,1,1,8,0,,,,
+2,1,1,10,0,,,,
+6,3,2,2,0,,,,
+6,3,2,3,0,,,,
+7,4,2,5,0,,,,
+7,4,2,8,0,,,,
+9,4,3,3,0,,,,
+9,4,3,4,0,,,,
+9,4,3,5,0,,,,
+9,4,3,6,0,,,,
+9,4,3,7,0,,,,
+9,4,3,8,0,,,,
+9,4,3,9,0,,,,
+10,1,3,1,0,,,,
+10,1,3,5,0,,,,
+10,1,3,7,0,,,,
+10,1,3,8,0,,,,
+10,1,3,10,0,,,,
+11,3,3,3,0,,,,
+11,3,3,4,0,,,,
+11,3,3,5,0,,,,
+11,3,3,6,0,,,,
+11,3,3,7,0,,,,
+11,3,3,10,0,,,,
+12,5,3,1,0,,,,
+12,5,3,2,0,,,,
+12,5,3,4,0,,,,
+12,5,3,5,0,,,,
+12,5,3,6,0,,,,
+12,5,3,8,0,,,,
+12,5,3,9,0,,,,
+12,5,3,10,0,,,,
+15,5,1,3,0,,,,
+15,5,1,8,0,,,,
+15,5,1,9,0,,,,
+16,4,1,5,0,,,,
+16,4,1,6,0,,,,
+16,4,1,10,0,,,,
+19,2,2,1,0,,,,
+19,2,2,2,0,,,,
+19,2,2,3,0,,,,
+19,2,2,4,0,,,,
+19,2,2,8,0,,,,
+19,2,2,9,0,,,,
+20,1,2,4,0,,,,
+20,1,2,6,0,,,,
+21,2,3,4,0,,,,
+21,2,3,5,0,,,,
+21,2,3,6,0,,,,
+27,1,4,1,0,,,,
+27,1,4,2,0,,,,
+27,1,4,3,0,,,,
+27,1,4,4,0,,,,
+27,1,4,5,0,,,,
+27,1,4,7,0,,,,
+27,1,4,8,0,,,,
+40,1,5,5,0,,,,
